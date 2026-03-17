@@ -1,4 +1,4 @@
-# data-analytics-portfolio
+# Data Analytics Portfolio
 A collection of data analytics and business intelligence projects focused on extracting insights from real-world datasets and supporting data-driven decision making.  
 
 ## Projects
