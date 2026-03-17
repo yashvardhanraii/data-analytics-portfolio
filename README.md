@@ -25,3 +25,7 @@ Tools: Excel
 Python analysis combining coffee sales data and news trends to explore product demand and market opportunities.  
 Framework: QDAVI  
 Tools: Python, Pandas, Plotly
+
+### [Personal Finance Spending Dashboard](https://github.com/yashvardhanraii/personal-finance-sql-powerbi-dashboard)
+End-to-end personal finance analytics project using SQL and Power BI to analyse spending patterns, category distribution, and monthly trends with a dynamic year filter.  
+Tools: MySQL, SQL, Power BI
