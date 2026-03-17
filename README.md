@@ -20,7 +20,7 @@ Tools: IBM Cognos Analytics
 Excel dashboard analysing housing prices, land size, and property characteristics across Perth suburbs.  
 Tools: Microsoft Excel
 
-### [Queensland Green Tourism Fleet Strategy](https://github.com/yashvardhanraii/queensland-green-tourism-fleet-strategy)
+### [Queensland Green Tourism Fleet Strategy](https://github.com/yashvardhanraii/ev-fleet-strategy-analysis)
 Fleet data analysis evaluating the transition from petrol vehicles to hybrid and electric vehicles.  
 Framework: TOWS  
 Tools: Excel
