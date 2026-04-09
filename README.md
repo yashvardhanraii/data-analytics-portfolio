@@ -8,7 +8,7 @@ Analysis of historical DoorDash delivery data in Brisbane to identify efficient 
 Framework: QDAVI  
 Tools: Python, Pandas, Plotly
 
-### [Personal Finance Spending Dashboard](https://github.com/yashvardhanraii/personal-finance-sql-powerbi-dashboard)
+### [Personal Finance Spending Dashboard](https://github.com/yashvardhanraii/personal-finance-spending-analysis-dashboard)
 End-to-end personal finance analytics project using Excel, SQL and Power BI to analyse spending patterns, category distribution, and monthly trends with a dynamic year filter.  
 Tools: Excel, MySQL, Power BI
 
